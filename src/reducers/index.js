@@ -1,9 +1,9 @@
 import { combineReducers } from 'redux';
 import { firebaseStateReducer as firebase } from 'react-redux-firebase';
-// import signin from './signin';
+import signup from './signup';
 
 
 export default combineReducers({
   firebase,
-  // signin,
+  signup,
 });

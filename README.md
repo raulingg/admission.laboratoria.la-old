@@ -1,3 +1,3 @@
-# admission.laboratoria.legal
+# admission.laboratoria.la
 
 ...

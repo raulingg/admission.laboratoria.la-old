@@ -12,12 +12,12 @@ import registerServiceWorker from './registerServiceWorker';
 
 
 ReactDOM.render(
-	<Provider store={store}>
-		<MuiThemeProvider theme={theme}>
-		  <App />
-		</MuiThemeProvider>
-	</Provider>,
-	document.getElementById('root'),
+  <Provider store={store}>
+    <MuiThemeProvider theme={theme}>
+      <App />
+    </MuiThemeProvider>
+  </Provider>,
+  document.getElementById('root'),
 );
 
 
