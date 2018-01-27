@@ -9,7 +9,7 @@ const Learn = (props) => (
   >
     <h1>Aprende a programar y transforma tu futuro</h1>
     <p>Conoce las oportunidades que puedes conseguir y aplica</p>
-    <a href="#form" className="button">Postula ahora</a>
+    <a href="#signup" className="button">Postula ahora</a>
   </Hero>
 );
 

@@ -1,20 +1,33 @@
 // Action types
-const TAB_SELECT = 'admission.laboratoria.la/signup/TAB_SELECT';
+const UPDATE_PRE_SIGNUP_FIELD = 'admission.laboratoria.la/signup/UPDATE_PRE_SIGNUP_FIELD';
 
 
 // Action Creators
-export const selectCohortUsersTab = id => ({
-  type: TAB_SELECT,
-  payload: id,
+export const updatePreSignupField = (field, value) => ({
+  type: UPDATE_PRE_SIGNUP_FIELD,
+  payload: { field, value },
 });
 
 
 // Reducer
 export default (state = {
-  currentTab: 0,
+  preSignup: {
+    campus: '',
+    previousApplication: '',
+    trainingStages: '',
+    format: '',
+    tracks: '',
+    programmingLanguage: '',
+  },
 }, action) => {
-  if (action.type === TAB_SELECT) {
-    return { ...state, currentTab: action.payload };
+  if (action.type === UPDATE_PRE_SIGNUP_FIELD) {
+    return {
+      ...state,
+      preSignup: {
+        ...state.preSignup,
+        [action.payload.field]: action.payload.value,
+      },
+    };
   }
   return state;
 };

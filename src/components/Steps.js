@@ -64,7 +64,7 @@ const Steps = ({ classes }) => (
           </p>
         </li>
       </ol>
-      <a href="#form">Postula ahora</a>
+      <a href="#signup">Postula ahora</a>
     </div>
   </Section>
 );

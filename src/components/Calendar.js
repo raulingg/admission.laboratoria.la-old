@@ -58,22 +58,8 @@ const Calendar = ({ campuses, classes }) => (
 );
 
 
-const filterCampuses = obj =>
-  Object.keys(obj || {})
-    .sort()
-    .reduce(
-      (memo, key) =>
-        (obj[key].active) ? [ ...memo, { id: key, ...obj[key] } ] : memo,
-      [],
-    );
-
-
 export default compose(
-  firebaseConnect(['campuses']),
-  connect(
-    ({ firebase: { data: { campuses } } }) => ({
-      campuses: filterCampuses(campuses),
-    }),
-  ),
+  firebaseConnect([]),
+  connect(({ campuses }) => ({ campuses: campuses.active })),
   withStyles(styles),
 )(Calendar);

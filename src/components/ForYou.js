@@ -22,7 +22,7 @@ const ForYou = ({ classes }) => (
       tenido buenas oportunidades educativas o laborales?
     </p>
     <h2 className={classes.h2}>Entonces Laboratoria es para tí</h2>
-    <a href="#form" className="button">Postula ahora</a>
+    <a href="#signup" className="button">Postula ahora</a>
   </Hero>
 );
 
