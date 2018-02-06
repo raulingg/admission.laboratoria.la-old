@@ -50,13 +50,18 @@ así como entregables y método de evaluación.
 
 ### Unidad 01: [Línea base](01-baseline)
 
-Un párrafo que describa lo que van a aprender y por qué es importante/útil
-aprenderlo.
+Completa tu datos personales. Para nosotros es muy importante tener tus datos
+para conocerte mejor e identificar si tienes el perfil que buscamos en nuestras
+alumnas.
 
 ### Unidad 02: [Exámenes](02-tests)
 
-En esta sesión te dedicarás a hackear 🚧! Junto con una compañera, tendrás que
-blah blah blah...
+El examen está dividido en 4 secciones que evalúan tu potencial para aprender
+código dentro de nuestro programa. Cada sección nos dice algo diferente de ti
+por lo que al final del examen tenemos una mejor idea de tu talento y tu
+capacidad. En general evaluamos 4 cosas: personalidad, matemáticas, razonamiento
+lógico y lectura de comprensión. ¡No tienes de qué preocuparte! No tienes que
+estudiar ni tener conocimientos previos de programación.
 
 ***
 
