@@ -20,7 +20,7 @@ no te llegará el correo pero siempre podrás ingresar a la plataforma de ésta
 misma manera.
 
 El primer paso que debes realizar es completar el cuestionario de datos
-personales. No te tardarás más de 15 en llenar este formulario, pero para
+personales. No te tardarás más de 15 minutos en llenar este formulario, pero para
 nosotros es muy importante tener tus datos para conocerte mejor e identificar si
 tienes el perfil que buscamos en nuestras alumnas. Después de finalizar este
 cuestionario y si cumples con los requisitos para ingresar a Laboratoria, la
