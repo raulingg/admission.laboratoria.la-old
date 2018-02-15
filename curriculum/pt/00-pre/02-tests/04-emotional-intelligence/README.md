@@ -1,4 +1,4 @@
-#  Inteligência emocional
+# Inteligência emocional
 
 * Tipo: `lectura`
 * Formato: `self-paced`
