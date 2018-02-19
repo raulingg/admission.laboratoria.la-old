@@ -1,4 +1,4 @@
-# Línea base
+# Bienvenida
 
 * Tipo: `lectura`
 * Formato: `self-paced`
