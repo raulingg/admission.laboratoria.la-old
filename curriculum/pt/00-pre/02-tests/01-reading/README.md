@@ -6,4 +6,4 @@
 
 ***
 
-https://laboratoria.typeform.com/to/XocYAF?email=xxxxx&fname=xxxxx&city=xxxxx&flow=xxxxx
+https://laboratoria.typeform.com/to/XocYAF
