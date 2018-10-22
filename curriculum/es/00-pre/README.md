@@ -48,13 +48,17 @@ así como entregables y método de evaluación.
 
 ## Syllabus
 
-### Unidad 01: [Línea base](01-baseline)
+### Unidad 01: [Bienvenida](01-welcome)
+
+...
+
+### Unidad 02: [Línea base](02-baseline)
 
 Completa tu datos personales. Para nosotros es muy importante tener tus datos
 para conocerte mejor e identificar si tienes el perfil que buscamos en nuestras
 alumnas.
 
-### Unidad 02: [Exámenes](02-tests)
+### Unidad 03: [Exámenes](03-tests)
 
 El examen está dividido en 4 secciones que evalúan tu potencial para aprender
 código dentro de nuestro programa. Cada sección nos dice algo diferente de ti
@@ -62,6 +66,10 @@ por lo que al final del examen tenemos una mejor idea de tu talento y tu
 capacidad. En general evaluamos 4 cosas: personalidad, matemáticas, razonamiento
 lógico y lectura de comprensión. ¡No tienes de qué preocuparte! No tienes que
 estudiar ni tener conocimientos previos de programación.
+
+### Unidad 04: [Prework](04-prework)
+
+...
 
 ***
 
