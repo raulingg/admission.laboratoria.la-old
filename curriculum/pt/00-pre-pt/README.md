@@ -48,17 +48,13 @@ así como entregables y método de evaluación.
 
 ## Syllabus
 
-### Unidad 01: [Bem vinda](01-welcome)
-
-...
-
-### Unidad 02: [Linha de base](02-baseline)
+### Unidad 01: [Linha de base](01-baseline)
 
 Complete os seus dados pessoais. Para nós é muito importante ter seus dados para
 te conhecer melhor e identificar se você tem o perfil que buscamos nos nossos
 alunos.
 
-### Unidad 03: [Exames](03-tests)
+### Unidad 02: [Exames](02-tests)
 
 O teste é dividido em 5 seções que avaliam o seu potencial para aprender a
 programar dentro do nosso programa. Cada seção nos diz algo diferente de você e
@@ -68,7 +64,7 @@ compreensão de texto. Não precisa se preocupar! Você não tem que estudar ou 
 conhecimento prévio de programação. É apenas um teste que nos permite saber como
 você pensa e como encara a vida e situações estressantes.
 
-### Unidad 04: [Prework](04-prework)
+### Unidad 03: [Prework](03-prework)
 
 ...
 
