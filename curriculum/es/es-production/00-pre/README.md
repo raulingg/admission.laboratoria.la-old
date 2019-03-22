@@ -56,18 +56,12 @@ alumnas.
 
 ### Unidad 02: [Exámenes](02-tests)
 
-El examen está dividido en 4 secciones que evalúan tu potencial para aprender
-código dentro de nuestro programa. Cada sección nos dice algo diferente de ti
-por lo que al final del examen tenemos una mejor idea de tu talento y tu
-capacidad. En general evaluamos 4 cosas: personalidad, matemáticas, razonamiento
-lógico y lectura de comprensión. ¡No tienes de qué preocuparte! No tienes que
-estudiar ni tener conocimientos previos de programación.
+El examen está dividido en 5 secciones que evalúan tu potencial para aprender código dentro de nuestro programa. Cada sección nos dice algo diferente de ti
+por lo que al final del examen tenemos una mejor idea de tu talento y tu capacidad. ¡No tienes de qué preocuparte! No tienes que estudiar ni tener conocimientos previos de programación.
 
 ### Unidad 03: [Prework](03-prework)
 
-...
-
-***
+Bienvenida al curso en línea donde aprenderás conceptos básicos de programación y GrowthMindset. Podrás hacerlo a tu ritmo. Encontrarás quizzes y ejercicios prácticos que evalúan tu desempeño y habilidades de aprendizaje.
 
 ## Evaluación
 
