@@ -57,7 +57,7 @@
   {
     "mode": "NULLABLE", 
     "name": "walmartRut", 
-    "type": "INTEGER"
+    "type": "STRING"
   }, 
   {
     "mode": "NULLABLE", 
