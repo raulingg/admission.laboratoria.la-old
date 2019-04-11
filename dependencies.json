@@ -36,38 +36,6 @@
       "selfAssessment": {
         "enabled": false
       }
-    },
-    "03-tests": {
-      "dependencies": {
-        "02-baseline/01-questionnaire": {
-          "completed": {
-            "value": 1
-          },
-          "score": {
-            "operator": "<",
-            "value": 1
-          }
-        }
-      },
-      "selfAssessment": {
-        "enabled": false
-      }
-    },
-    "04-prework": {
-      "dependencies": {
-        "02-baseline/01-questionnaire": {
-          "completed": {
-            "value": 1
-          },
-          "score": {
-            "operator": "<",
-            "value": 1
-          }
-        }
-      },
-      "selfAssessment": {
-        "enabled": false
-      }
     }
   }
 }
